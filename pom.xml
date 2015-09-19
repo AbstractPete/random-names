@@ -4,7 +4,7 @@
 
     <groupId>com.github.abstractpete</groupId>
     <artifactId>tools-random-names</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>random-names</name>
@@ -54,13 +54,13 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.2</version>
-                <dependencies>
+             <!--   <dependencies>
                     <dependency>
                         <groupId>org.apache.maven.scm</groupId>
                         <artifactId>maven-scm-provider-gitexe</artifactId>
                         <version>1.8.1</version>
                     </dependency>
-                </dependencies>
+                </dependencies> -->
                 <configuration>
                     <useReleaseProfile>false</useReleaseProfile>
                     <releaseProfiles>release</releaseProfiles>
