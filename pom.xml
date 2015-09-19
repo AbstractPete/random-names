@@ -4,7 +4,7 @@
 
     <groupId>com.github.abstractpete</groupId>
     <artifactId>tools-random-names</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.5-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>random-names</name>
@@ -34,9 +34,9 @@
     </developers>
     <scm>
         <url>https://github.com/AbstractPete/random-names.git</url>
-        <connection>scm:git:git://git@github.com:AbstractPete/random-names.git</connection>
-        <developerConnection>scm:git:git://git@github.com:AbstractPete/random-names.git</developerConnection>
-        <tag>tools-random-names-0.0.1</tag>
+        <connection>scm:git:https://github.com/AbstractPete/random-names.git</connection>
+        <developerConnection>scm:git:https://github.com/AbstractPete/random-names.git</developerConnection>
+        <tag>tools-random-names-0.0.4</tag>
   </scm>
 
     <properties>
