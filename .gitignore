@@ -2,11 +2,16 @@
 target/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+.git_ssh_rm
+.git_ssh_rm.pub
 # Package Files #
 *.jar
 *.war
 *.ear
-
+settings.xml
+pom.xml.releaseBackup
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+git_ssh_rm
+*.pub
+release.properties

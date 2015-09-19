@@ -1,4 +1,4 @@
-package apete.random;
+package com.github.abstractpete;
 
 /**
  * Created by bcmds on 19.09.2015.
