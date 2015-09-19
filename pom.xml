@@ -34,8 +34,8 @@
     </developers>
     <scm>
         <url>https://github.com/AbstractPete/random-names</url>
-        <connection>scm:git:git://github.com/AbstractPete/random-names.git</connection>
-        <developerConnection>scm:git:git://github.com/AbstractPete/random-names.git</developerConnection>
+        <connection>scm:git://github.com/AbstractPete/random-names.git</connection>
+        <developerConnection>scm:git://github.com/AbstractPete/random-names.git</developerConnection>
       <tag>tools-random-names-0.0.1</tag>
   </scm>
 
