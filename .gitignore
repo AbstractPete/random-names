@@ -16,3 +16,4 @@ git_ssh_rm
 *.pub
 release.properties
 .idea/workspace.xml
+.idea/workspace.xml
